@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: violet;
+}
+
+h1{
+    font-size: 3em;
+    font-family: "Arvo", cursive;
+    color: gold;
+}
+
+.Sa{
+    background-image: url("assets/image/tom1.png");
+}
+.Re{
+    background-image: url("assets/image/tom2.png");
+}
+.Ga{
+    background-image: url("assets/image/tom3.png");
+}
+.Ma{
+    background-image: url("assets/image/tom4.png");
+}
+.Pa{
+    background-image: url("assets/image/snare.png");
+}
+.Dha{
+    background-image: url("assets/image/crash.png");
+}
+.Ni{
+    background-image: url("assets/image/kick.png");
+}
+
+.drum{
+    width: 150px;
+    height: 150px;
+    font-size: 4rem;
+    font-family: "Arvo", cursive;
+    font-weight: 700;
+    color: red;
+    outline: none;
+    border: 10px solid grey;
+    margin: 10px;
+    line-height: 2;
+    text-align: center;
+    background-color: white;
+    text-shadow: 3px 0 whitesmoke;
+    border-radius: 15px ;
+
+
+}
